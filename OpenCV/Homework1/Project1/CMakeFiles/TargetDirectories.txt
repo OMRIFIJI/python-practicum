@@ -1,3 +1,0 @@
-/home/amir/python/python-practicum/OpenCV/Homework1/Project1/CMakeFiles/main.dir
-/home/amir/python/python-practicum/OpenCV/Homework1/Project1/CMakeFiles/edit_cache.dir
-/home/amir/python/python-practicum/OpenCV/Homework1/Project1/CMakeFiles/rebuild_cache.dir
